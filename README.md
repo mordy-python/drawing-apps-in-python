@@ -6,4 +6,4 @@ Feel free to fork and add your own drawings!
 
 | App | File | Screenshot |
 | --- | --- | --- |
-| Visual Studio Code | [vscode.py](https://github.com/mordy-python/drawing-apps-in-python/blob/main/vscode.py) | ![VS Code screenshot](https://github.com/mordy-python/drawing-apps-in-python/blob/main/vscode.py.png) |
+| Visual Studio Code | [vscode.py](https://github.com/mordy-python/drawing-apps-in-python/blob/main/vscode.py) | ![VS Code screenshot](https://github.com/mordy-python/drawing-apps-in-python/blob/main/vscode.jpg) |
